@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "KH Interference";
+  src: url("../media/fonts/KHInterference/WOFF2/KHInterferenceTRIAL-Regular.woff2") format('woff2'),
+       url("../media/fonts/KHInterference/WOFF/KHInterferenceTRIAL-Regular.woff") format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PPFraktion";
+  src: url("../media/fonts/PPFraktion/Sans/PPFraktionSans-Light.otf") format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
